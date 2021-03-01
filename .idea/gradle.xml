@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="openjdk-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Game of Life/task" />
+            <option value="$PROJECT_DIR$/Problems/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/Problems/Add new default method" />
+            <option value="$PROJECT_DIR$/Problems/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Problems/Area of a circle" />
+            <option value="$PROJECT_DIR$/Problems/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Problems/Calculator" />
+            <option value="$PROJECT_DIR$/Problems/Capture variables" />
+            <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Problems/Correct the program" />
+            <option value="$PROJECT_DIR$/Problems/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Problems/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Problems/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Problems/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Problems/Implement a default method" />
+            <option value="$PROJECT_DIR$/Problems/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Problems/Iterations" />
+            <option value="$PROJECT_DIR$/Problems/Managing a process" />
+            <option value="$PROJECT_DIR$/Problems/Max of two integers" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Only true or false" />
+            <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Problems/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Safe converting" />
+            <option value="$PROJECT_DIR$/Problems/Starting threads" />
+            <option value="$PROJECT_DIR$/Problems/String processor" />
+            <option value="$PROJECT_DIR$/Problems/Summing with threads" />
+            <option value="$PROJECT_DIR$/Problems/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Problems/VeganPizza" />
+            <option value="$PROJECT_DIR$/Problems/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

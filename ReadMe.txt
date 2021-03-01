@@ -1,0 +1,1 @@
+jetBrains training project GameOfLife.

@@ -1,0 +1,15 @@
+life/GameOfLife.java
+ life.GameOfLife
+ life.GameOfLife$1
+ life.GameOfLife$2
+ life.GameOfLife$3
+ life.GameOfLife$4
+ life.GameOfLife$mode
+life/Main.java
+ life.Main
+life/GameField.java
+ life.GameField
+life/Universe.java
+ life.Universe
+life/Generation.java
+ life.Generation
